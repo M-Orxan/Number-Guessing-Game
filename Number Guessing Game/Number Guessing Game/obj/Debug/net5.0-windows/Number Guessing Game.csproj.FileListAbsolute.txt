@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.exe
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.deps.json
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.dll
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\bin\Debug\net5.0-windows\Number Guessing Game.pdb
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game_MarkupCompile.cache
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game_MarkupCompile.lref
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.g.resources
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.dll
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\refint\Number Guessing Game.dll
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.pdb
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\Number Guessing Game.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Number-Guessing-Game\Number Guessing Game\Number Guessing Game\obj\Debug\net5.0-windows\ref\Number Guessing Game.dll
