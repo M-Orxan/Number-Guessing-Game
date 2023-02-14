@@ -47,7 +47,7 @@ namespace Number_Guessing_Game
             }
             if (!int.TryParse(minimumValue, out minValue))
             {
-                MessageBox.Show("You entered invalid minimum value. Please try again");
+                MessageBox.Show("You entered invalid minimum value.\nPlease try again");
                 MinimumValueInput.Clear();
                 return;
             }
@@ -62,7 +62,7 @@ namespace Number_Guessing_Game
 
             if (!int.TryParse(maximumValue, out maxValue))
             {
-                MessageBox.Show("You entered invalid maximum value. Please try again");
+                MessageBox.Show("You entered invalid maximum value.\nPlease try again");
                 MaximumValueInput.Clear();
                 return;
             }
@@ -86,7 +86,7 @@ namespace Number_Guessing_Game
 
             if (!int.TryParse(UsernumberInput.Text, out userNumber))
             {
-                MessageBox.Show("You entered invalid number. Please try again");
+                MessageBox.Show("You entered invalid number.\nPlease try again");
                 UsernumberInput.Clear();
 
                 return;
@@ -94,7 +94,7 @@ namespace Number_Guessing_Game
 
             if (count == 0 && userNumber != randomNumber)
             {
-                MessageBox.Show($"You lost. The right number is {randomNumber}");
+                MessageBox.Show($"You lost.\nThe right number is {randomNumber}");
                 UsernumberInput.Clear();
                 MinimumValueInput.Clear();
                 MaximumValueInput.Clear();
@@ -105,7 +105,7 @@ namespace Number_Guessing_Game
 
             if (userNumber < minValue || userNumber > maxValue)
             {
-                MessageBox.Show("You didn't enter number between right range. Please enter again");
+                MessageBox.Show("You didn't enter number between right range.\nPlease enter again");
                 UsernumberInput.Clear();
                 return;
             }
@@ -115,12 +115,12 @@ namespace Number_Guessing_Game
             {
                 if (count == 1)
                 {
-                    MessageBox.Show($"Wrong desicion. You have {count} chance. Please enter higher number");
+                    MessageBox.Show($"Wrong desicion.\nYou have {count} chance.\nPlease enter higher number");
 
                 }
                 else
                 {
-                    MessageBox.Show($"Wrong desicion. You have {count} chances. Please enter higher number");
+                    MessageBox.Show($"Wrong desicion.\nYou have {count} chances.\nPlease enter higher number");
 
                 }
                 UsernumberInput.Clear();
@@ -131,12 +131,12 @@ namespace Number_Guessing_Game
             {
                 if (count == 1)
                 {
-                    MessageBox.Show($"Wrong desicion. You have {count} chance. Please enter higher number");
+                    MessageBox.Show($"Wrong desicion.\nYou have {count} chance.\nPlease enter lower number");
 
                 }
                 else
                 {
-                    MessageBox.Show($"Wrong desicion. You have {count} chances. Please enter higher number");
+                    MessageBox.Show($"Wrong desicion.\nYou have {count} chances.\nPlease enter lower number");
 
                 }
                 UsernumberInput.Clear();
@@ -145,7 +145,7 @@ namespace Number_Guessing_Game
             }
             else
             {
-                MessageBox.Show($"Congratulations. You found right number at {6 - count}th time");
+                MessageBox.Show($"Congratulations.\nYou found right number at {6 - count}th time");
                 UsernumberInput.Clear();
                 MinimumValueInput.Clear();
                 MaximumValueInput.Clear();
