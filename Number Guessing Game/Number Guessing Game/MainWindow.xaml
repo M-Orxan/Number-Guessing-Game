@@ -13,14 +13,16 @@
         <TextBox x:Name="MinimumValueInput" HorizontalAlignment="Left" Margin="305,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120"/>
         <Label Content="Please enter the maximum value:" HorizontalAlignment="Left" Margin="50,139,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Height="35" Width="255"/>
         <TextBox x:Name="MaximumValueInput" HorizontalAlignment="Left" Margin="305,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120"/>
-        <Button x:Name="SetTheRange" Content="Set the range" HorizontalAlignment="Left" Margin="460,129,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120" Click="SetTheRange_Click"/>
-        <Label x:Name="label" Content="Now please enter number between minValue and maxValue" HorizontalAlignment="Left" Margin="50,204,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Height="35" Width="495"/>
-        <TextBox x:Name="UsernumberInput" HorizontalAlignment="Left" Margin="505,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120"/>
-        <Button x:Name="Check" Content="Check" HorizontalAlignment="Left" Margin="655,208,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120" Click="Check_Click"/>
+        <Button x:Name="SetTheRange" Content="Set the range" HorizontalAlignment="Left" Margin="525,143,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120" Click="SetTheRange_Click"/>
+        <Label x:Name="label" Content="Now please enter number between minValue and maxValue" HorizontalAlignment="Left" Margin="55,244,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Height="35" Width="495"/>
+        <TextBox x:Name="UsernumberInput" HorizontalAlignment="Left" Margin="510,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120"/>
+        <Button x:Name="Check" Content="Check" HorizontalAlignment="Left" Margin="660,248,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120" Click="Check_Click"/>
+        <Label x:Name="Chances" Content="How many chances do you want to have?" HorizontalAlignment="Left" Margin="50,183,0,0" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Height="35" Width="495"/>
+        <TextBox x:Name="ChancesInput" HorizontalAlignment="Left" Margin="370,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Palatino Linotype" FontSize="16" FontWeight="Bold" Width="120"/>
 
 
 
     </Grid>
 
-    
+
 </Window>
