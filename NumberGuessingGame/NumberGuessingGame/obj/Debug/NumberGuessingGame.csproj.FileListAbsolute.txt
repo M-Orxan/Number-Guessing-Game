@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+C:\Users\USER\Desktop\Github Projects\Number-Guessing-Game\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb

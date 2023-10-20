@@ -1,1 +1,1 @@
-# Number-Guessing-Game
+It is a simple Console application that prompts user to find the random number between 1 and 100. The user hat 6 chances in total. The program guides the user whether to enter lower or higher number after each try.
